@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{582E6A6E-3A56-4A29-9F8A-0C714CADF712}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Linear Regression/Properties/Resources.resx">
+    <Files>
+      <File FileName="Linear Regression/Form1.Designer.cs" Line="773" Column="86" />
+      <File FileName="Linear Regression/Properties/Resources.resx" Line="120" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Linear_220Regression PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
